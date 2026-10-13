@@ -13,7 +13,7 @@ plt.rcParams.update({
     "figure.facecolor": SURFACE, "axes.facecolor": SURFACE, "savefig.facecolor": SURFACE,
     "axes.edgecolor": GRID, "axes.labelcolor": TEXT_2, "xtick.color": TEXT_2, "ytick.color": TEXT_2,
     "text.color": TEXT, "axes.grid": True, "grid.color": GRID, "grid.linewidth": 0.8,
-    "axes.spines.top": False, "axes.spines.right": False, "axes.titleweight": "bold",
+    "axes.spines.top": False, "axes.axisbelow": True, "axes.spines.right": False, "axes.titleweight": "bold",
     "axes.titlesize": 12, "font.size": 10, "lines.linewidth": 2, "legend.frameon": False,
     "figure.dpi": 110, "savefig.dpi": 150, "savefig.bbox": "tight",
 })
