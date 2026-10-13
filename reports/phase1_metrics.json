@@ -1,0 +1,154 @@
+{
+  "by_hotel": {
+    "City Hotel": {
+      "bookings": 79160,
+      "cancel_rate": 0.4178,
+      "cancelled_revenue_eur": 10879611.78,
+      "cancelled_share_of_booked_revenue": 0.4306
+    },
+    "Resort Hotel": {
+      "bookings": 40046,
+      "cancel_rate": 0.2777,
+      "cancelled_revenue_eur": 5842177.34,
+      "cancelled_share_of_booked_revenue": 0.3349
+    }
+  },
+  "segment": {
+    "City Hotel|Aviation": {
+      "bookings": 235,
+      "cancel_rate": 0.2213,
+      "share": 0.003
+    },
+    "City Hotel|Complementary": {
+      "bookings": 527,
+      "cancel_rate": 0.1063,
+      "share": 0.0067
+    },
+    "City Hotel|Corporate": {
+      "bookings": 2977,
+      "cancel_rate": 0.215,
+      "share": 0.0376
+    },
+    "City Hotel|Direct": {
+      "bookings": 6072,
+      "cancel_rate": 0.1739,
+      "share": 0.0767
+    },
+    "City Hotel|Groups": {
+      "bookings": 13959,
+      "cancel_rate": 0.6892,
+      "share": 0.1763
+    },
+    "City Hotel|Offline TA/TO": {
+      "bookings": 16711,
+      "cancel_rate": 0.4288,
+      "share": 0.2111
+    },
+    "City Hotel|Online TA": {
+      "bookings": 38679,
+      "cancel_rate": 0.3745,
+      "share": 0.4886
+    },
+    "Resort Hotel|Complementary": {
+      "bookings": 201,
+      "cancel_rate": 0.1642,
+      "share": 0.005
+    },
+    "Resort Hotel|Corporate": {
+      "bookings": 2305,
+      "cancel_rate": 0.1523,
+      "share": 0.0576
+    },
+    "Resort Hotel|Direct": {
+      "bookings": 6510,
+      "cancel_rate": 0.1349,
+      "share": 0.1626
+    },
+    "Resort Hotel|Groups": {
+      "bookings": 5831,
+      "cancel_rate": 0.4243,
+      "share": 0.1456
+    },
+    "Resort Hotel|Offline TA/TO": {
+      "bookings": 7470,
+      "cancel_rate": 0.1521,
+      "share": 0.1865
+    },
+    "Resort Hotel|Online TA": {
+      "bookings": 17729,
+      "cancel_rate": 0.3524,
+      "share": 0.4427
+    }
+  },
+  "lead_time": {
+    "0-7": {
+      "bookings": 19633,
+      "cancel_rate": 0.0959
+    },
+    "8-30": {
+      "bookings": 18945,
+      "cancel_rate": 0.2789
+    },
+    "31-90": {
+      "bookings": 29528,
+      "cancel_rate": 0.3773
+    },
+    "91-180": {
+      "bookings": 26420,
+      "cancel_rate": 0.4474
+    },
+    "181-365": {
+      "bookings": 21533,
+      "cancel_rate": 0.5546
+    },
+    "366+": {
+      "bookings": 3147,
+      "cancel_rate": 0.6765
+    }
+  },
+  "adr_by_month": {
+    "City Hotel": {
+      "1": 84.39,
+      "2": 88.37,
+      "3": 92.11,
+      "4": 113.52,
+      "5": 123.18,
+      "6": 119.66,
+      "7": 117.97,
+      "8": 120.95,
+      "9": 115.56,
+      "10": 104.62,
+      "11": 89.25,
+      "12": 92.32
+    },
+    "Resort Hotel": {
+      "1": 50.24,
+      "2": 55.4,
+      "3": 58.33,
+      "4": 77.6,
+      "5": 78.55,
+      "6": 109.92,
+      "7": 152.8,
+      "8": 183.69,
+      "9": 97.58,
+      "10": 63.58,
+      "11": 50.15,
+      "12": 71.5
+    }
+  },
+  "repeat_guest_share": 0.0315,
+  "deposit": {
+    "No Deposit": {
+      "bookings": 104458,
+      "cancel_rate": 0.284
+    },
+    "Non Refund": {
+      "bookings": 14586,
+      "cancel_rate": 0.9936
+    },
+    "Refundable": {
+      "bookings": 162,
+      "cancel_rate": 0.2222
+    }
+  }
+}
