@@ -1,0 +1,59 @@
+indicator,geography,period,value,unit,yoy_change,yoy_unit,original_publisher,source_url,verification,notes
+visitor_volume,Las Vegas,2024,41676300,visitors,,,LVCVA,https://epubs.nsla.nv.gov/statepubs/epubs/651944-2024.pdf,secondary (search snippet of official PDF),
+visitor_volume,Las Vegas,2025,38545700,visitors,-7.5,pct,LVCVA,https://epubs.nsla.nv.gov/statepubs/epubs/651944-2025.pdf,secondary (search snippet of official PDF; Travel Weekly; Las Vegas Sun),
+adr,Las Vegas citywide,2025,183.52,USD,-5.0,pct,LVCVA,https://www.lvcva.com/research/visitor-statistics/,secondary (exhibitoronline citing LVCVA),third highest on record per same source
+revpar,Las Vegas citywide,2025,147.30,USD,-8.8,pct,LVCVA,https://www.lvcva.com/research/visitor-statistics/,secondary (exhibitoronline citing LVCVA),third highest on record per same source
+hotel_occupancy,Las Vegas citywide,2025,80.3,pct,-3.3,pct_points,LVCVA,https://www.lvcva.com/research/visitor-statistics/,secondary (exhibitoronline citing LVCVA),
+canadian_visitors,Las Vegas,2024,1448700,visitors,,,LVCVA,https://www.8newsnow.com/news/local-news/las-vegas-strip/las-vegas-visits-from-canada-dropped-17-4-last-year-as-strip-tourism-struggled/amp/,secondary (8newsnow; Las Vegas Sun; Fox5),
+canadian_visitors,Las Vegas,2025,1196300,visitors,-17.4,pct,LVCVA,https://www.8newsnow.com/news/local-news/las-vegas-strip/las-vegas-visits-from-canada-dropped-17-4-last-year-as-strip-tourism-struggled/amp/,secondary (8newsnow; Las Vegas Sun; Fox5),
+international_visitors,Las Vegas,2025,4726500,visitors,-4.8,pct,LVCVA,https://www.8newsnow.com/news/local-news/las-vegas-strip/las-vegas-visits-from-canada-dropped-17-4-last-year-as-strip-tourism-struggled/amp/,secondary,16.4% below 2019
+visitor_volume,Las Vegas,2025-02,2973300,visitors,-11.9,pct,LVCVA,https://assets.simpleviewcms.com/simpleview/image/upload/v1/clients/lasvegas/ES_Feb2025_2b188d1c-72cd-47cc-9a59-973ca7724e58.pdf,secondary (search snippet of official PDF),
+visitor_volume,Las Vegas,2026-04,3275100,visitors,-1.8,pct,LVCVA,https://www.fox5vegas.com/2026/05/29/las-vegas-tourism-dips-april-convention-attendance-rises-lvcva-reports/,secondary,
+hotel_occupancy,Las Vegas citywide,2026-04,83.1,pct,,,LVCVA,https://www.fox5vegas.com/2026/05/29/las-vegas-tourism-dips-april-convention-attendance-rises-lvcva-reports/,secondary,
+weekend_occupancy,Las Vegas citywide,2026-04,92.7,pct,,,LVCVA,https://www.fox5vegas.com/2026/05/29/las-vegas-tourism-dips-april-convention-attendance-rises-lvcva-reports/,secondary,midweek just under 80%
+adr,Las Vegas citywide,2026-04,190.41,USD,,,LVCVA,https://www.fox5vegas.com/2026/05/29/las-vegas-tourism-dips-april-convention-attendance-rises-lvcva-reports/,secondary,April record
+convention_attendance,Las Vegas,2026-06,471100,attendees,25.9,pct,LVCVA,https://news3lv.com/news/local/las-vegas-tourism-trade-show-attendance-june-2026-lvcva-conventions-hotels-casinos-nevada,secondary,"reported as ""nearly 26%"""
+visitor_volume,Las Vegas,2026-07,3200000,visitors,2.7,pct,LVCVA,https://www.fox5vegas.com/2026/08/28/las-vegas-visitor-volume-rises-july-convention-attendance-falls/,secondary,rounded (about 3.2M)
+convention_attendance,Las Vegas,2026-07,262700,attendees,-5.6,pct,LVCVA,https://www.fox5vegas.com/2026/08/28/las-vegas-visitor-volume-rises-july-convention-attendance-falls/,secondary,
+hotel_occupancy,Las Vegas citywide,2026-07,77.2,pct,1.1,pct_points,LVCVA,https://www.fox5vegas.com/2026/08/28/las-vegas-visitor-volume-rises-july-convention-attendance-falls/,secondary,
+adr,Las Vegas citywide,2026-07,157.45,USD,1.8,pct,LVCVA,https://www.fox5vegas.com/2026/08/28/las-vegas-visitor-volume-rises-july-convention-attendance-falls/,secondary,
+revpar,Las Vegas citywide,2026-07,121.55,USD,3.2,pct,LVCVA,https://www.fox5vegas.com/2026/08/28/las-vegas-visitor-volume-rises-july-convention-attendance-falls/,secondary,
+hotel_occupancy,Strip,2026-07,80.2,pct,0.7,pct_points,LVCVA,https://www.fox5vegas.com/2026/08/28/las-vegas-visitor-volume-rises-july-convention-attendance-falls/,secondary,
+adr,Strip,2026-07,167.40,USD,1.7,pct,LVCVA,https://www.fox5vegas.com/2026/08/28/las-vegas-visitor-volume-rises-july-convention-attendance-falls/,secondary,
+revpar,Strip,2026-07,134.25,USD,2.6,pct,LVCVA,https://www.fox5vegas.com/2026/08/28/las-vegas-visitor-volume-rises-july-convention-attendance-falls/,secondary,
+hotel_occupancy,Downtown,2026-07,58.5,pct,-4.5,pct_points,LVCVA,https://www.fox5vegas.com/2026/08/28/las-vegas-visitor-volume-rises-july-convention-attendance-falls/,secondary (single source),check against LVCVA PDF
+adr,Downtown,2026-07,87.41,USD,-0.3,pct,LVCVA,https://www.fox5vegas.com/2026/08/28/las-vegas-visitor-volume-rises-july-convention-attendance-falls/,secondary (single source),check against LVCVA PDF
+revpar,Downtown,2026-07,51.13,USD,-7.4,pct,LVCVA,https://www.fox5vegas.com/2026/08/28/las-vegas-visitor-volume-rises-july-convention-attendance-falls/,secondary (single source),check against LVCVA PDF
+visitor_volume,Las Vegas,2026-01_to_2026-07,22754200,visitors,0.5,pct,LVCVA,https://www.fox5vegas.com/2026/08/28/las-vegas-visitor-volume-rises-july-convention-attendance-falls/,secondary,year to date
+visitor_volume,Las Vegas,2026-08,3030000,visitors,-4.3,pct,LVCVA,https://news3lv.com/news/local/las-vegas-tourism-drops-august-2026-lvcva-convention-visitation-hotel-hospitality-southern-nevada,secondary,rounded; Labor Day fell in August 2025 but September 2026
+hotel_occupancy,Las Vegas citywide,2026-08,74.1,pct,-3.4,pct_points,LVCVA,https://news3lv.com/news/local/las-vegas-tourism-drops-august-2026-lvcva-convention-visitation-hotel-hospitality-southern-nevada,secondary,
+adr,Las Vegas citywide,2026-08,150.32,USD,-7.4,pct,LVCVA,https://news3lv.com/news/local/las-vegas-tourism-drops-august-2026-lvcva-convention-visitation-hotel-hospitality-southern-nevada,secondary,yoy approximate
+revpar,Las Vegas citywide,2026-08,111.39,USD,-11.5,pct,LVCVA,https://news3lv.com/news/local/las-vegas-tourism-drops-august-2026-lvcva-convention-visitation-hotel-hospitality-southern-nevada,secondary,
+hotel_occupancy,Strip,2026-08,77.0,pct,,,LVCVA,https://news3lv.com/news/local/las-vegas-tourism-drops-august-2026-lvcva-convention-visitation-hotel-hospitality-southern-nevada,secondary,
+adr,Strip,2026-08,153.15,USD,,,LVCVA,https://news3lv.com/news/local/las-vegas-tourism-drops-august-2026-lvcva-convention-visitation-hotel-hospitality-southern-nevada,secondary,
+hotel_occupancy,Downtown,2026-08,53.0,pct,,,LVCVA,https://news3lv.com/news/local/las-vegas-tourism-drops-august-2026-lvcva-convention-visitation-hotel-hospitality-southern-nevada,secondary,
+adr,Downtown,2026-08,85.68,USD,,,LVCVA,https://news3lv.com/news/local/las-vegas-tourism-drops-august-2026-lvcva-convention-visitation-hotel-hospitality-southern-nevada,secondary,
+convention_attendance,Las Vegas,2026-08,622700,attendees,6.0,pct,LVCVA,https://news3lv.com/news/local/las-vegas-tourism-drops-august-2026-lvcva-convention-visitation-hotel-hospitality-southern-nevada,secondary,
+airport_passengers,Harry Reid Intl,2026-08,4149332,passengers,-9.16,pct,Clark County Dept. of Aviation,https://news3lv.com/news/local/harry-reid-airport-passenger-traffic-falls-9-in-august-totals-4-1-million,secondary,
+airport_passengers_international,Harry Reid Intl,2026-08,293672,passengers,3.9,pct,Clark County Dept. of Aviation,https://news3lv.com/news/local/harry-reid-airport-passenger-traffic-falls-9-in-august-totals-4-1-million,secondary,
+airport_passengers,Harry Reid Intl,2026-06,4300000,passengers,-9.3,pct,Clark County Dept. of Aviation,https://www.aviationpros.com/airport-business/airport-infrastructure-operations/news/55394913/las-vegas-airport-has-steepest-monthly-passenger-decline-in-june,secondary,rounded; Spirit Airlines shutdown on 2026-05-02
+gaming_win,Nevada statewide,2026-08,1266105114,USD,3.1,pct,Nevada Gaming Control Board,https://www.gaming.nv.gov/siteassets/content/about/abb-revenue/mrraug2026.pdf,secondary (news citing NGCB),
+gaming_win,Clark County,2026-08,1062187208,USD,2.80,pct,Nevada Gaming Control Board,https://www.gaming.nv.gov/siteassets/content/about/abb-revenue/mrraug2026.pdf,secondary (news citing NGCB),
+gaming_win,Strip,2026-08,684087062,USD,0.70,pct,Nevada Gaming Control Board,https://www.gaming.nv.gov/siteassets/content/about/abb-revenue/mrraug2026.pdf,secondary (news citing NGCB),
+gaming_win,Downtown,2026-08,61501577,USD,-2.96,pct,Nevada Gaming Control Board,https://www.gaming.nv.gov/siteassets/content/about/abb-revenue/mrraug2026.pdf,secondary (news citing NGCB),
+gaming_win,North Las Vegas,2026-08,24884866,USD,-0.74,pct,Nevada Gaming Control Board,https://www.gaming.nv.gov/siteassets/content/about/abb-revenue/mrraug2026.pdf,secondary (news citing NGCB),
+canadian_return_trips_from_us,Canada (all modes),2026-01,2100000,trips,-22.0,pct,Statistics Canada,https://www150.statcan.gc.ca/n1/daily-quotidien/260323/t001a-eng.htm,secondary (CP; Global News),auto 1.3M (-26.3%); air 753400 (-12.8%)
+canadian_return_trips_from_us,Canada (air+auto leading indicator),2026-08,2574637,trips,8.8,pct,Statistics Canada,https://www150.statcan.gc.ca/n1/tbl/csv/24100053-eng.zip,secondary,5th straight month of yoy growth
+international_arrivals,United States,2026-07,6250000,arrivals,-0.1,pct,NTTO,https://www.trade.gov/feature-article/july-2026-total-international-travel-volume,secondary,rounded
+international_arrivals_overseas,United States,2026-07,3100000,arrivals,-7.0,pct,NTTO,https://www.trade.gov/feature-article/july-2026-total-international-travel-volume,secondary,rounded; excludes Canada and Mexico
+international_arrivals_canada,United States,2026-07,1465644,arrivals,7.6,pct,NTTO,https://www.trade.gov/feature-article/july-2026-total-international-travel-volume,secondary,
+international_arrivals_mexico,United States,2026-07,1696679,arrivals,8.0,pct,NTTO,https://www.trade.gov/feature-article/july-2026-total-international-travel-volume,secondary,
+international_visitors,United States,2024,72300000,visitors,,,ITA/NTTO via CRS,https://www.everycrsreport.com/files/2026-05-01_IN12589_64807e4002c5ea5d43a78867c273f91ae59aca8a.html,secondary,July 2025 CRS edition gave 72.4M
+international_visitors,United States,2025,68300000,visitors,-5.5,pct,ITA/NTTO via CRS,https://www.everycrsreport.com/files/2026-05-01_IN12589_64807e4002c5ea5d43a78867c273f91ae59aca8a.html,secondary,
+employment_leisure_hospitality,Las Vegas-Henderson-Paradise MSA,2019,294.2,thousand_jobs,,,BLS CES via FRED,https://fred.stlouisfed.org/series/SMU32298207000000001A,secondary (FRED table snippet),annual average NSA
+employment_leisure_hospitality,Las Vegas-Henderson-Paradise MSA,2020,208.6,thousand_jobs,,,BLS CES via FRED,https://fred.stlouisfed.org/series/SMU32298207000000001A,secondary (FRED table snippet),
+employment_leisure_hospitality,Las Vegas-Henderson-Paradise MSA,2021,241.6,thousand_jobs,,,BLS CES via FRED,https://fred.stlouisfed.org/series/SMU32298207000000001A,secondary (FRED table snippet),
+employment_leisure_hospitality,Las Vegas-Henderson-Paradise MSA,2022,278.7,thousand_jobs,,,BLS CES via FRED,https://fred.stlouisfed.org/series/SMU32298207000000001A,secondary (FRED table snippet),
+employment_leisure_hospitality,Las Vegas-Henderson-Paradise MSA,2023,289.1,thousand_jobs,,,BLS CES via FRED,https://fred.stlouisfed.org/series/SMU32298207000000001A,secondary (FRED table snippet),
+employment_leisure_hospitality,Las Vegas-Henderson-Paradise MSA,2024,302.4,thousand_jobs,,,BLS CES via FRED,https://fred.stlouisfed.org/series/SMU32298207000000001A,secondary (FRED table snippet),
+survey_too_expensive_share,Nevada residents,2025-10,46,pct,,,Noble Predictive Insights (n=766),https://www.ktnv.com/news/new-poll-nevadans-think-las-vegas-is-too-expensive,secondary,residents not visitors
